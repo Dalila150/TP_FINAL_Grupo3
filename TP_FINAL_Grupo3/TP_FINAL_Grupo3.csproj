@@ -67,6 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Categorias\1.jpg" />
+    <Content Include="Categorias\10.jpg" />
+    <Content Include="Categorias\11.jpg" />
+    <Content Include="Categorias\12.jpg" />
+    <Content Include="Categorias\2.jpg" />
+    <Content Include="Categorias\3.jpg" />
+    <Content Include="Categorias\4.jpg" />
+    <Content Include="Categorias\5.jpg" />
+    <Content Include="Categorias\6.jpg" />
+    <Content Include="Categorias\7.jpg" />
+    <Content Include="Categorias\8.jpg" />
+    <Content Include="Categorias\9.jpg" />
+    <Content Include="Categorias\Precios.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
