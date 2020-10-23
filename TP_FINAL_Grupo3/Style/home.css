@@ -1,0 +1,96 @@
+﻿/*barra de navegacion*/
+.barraNav {
+    background-color: rgba(255, 255, 255, 0.02);
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: -25px;
+}
+
+    .barraNav ul {
+        padding: 0px;
+    }
+
+        .barraNav ul li {
+            display: inline-block;
+            text-decoration: none;
+            margin: 0;
+        }
+
+            .barraNav ul li a {
+                text-decoration: none;
+                color: rgb(0, 0, 0);
+                padding: 15px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                display: block;
+                border-radius: 4px 3px;
+            }
+
+                .barraNav ul li a:hover {
+                    background-color: rgb(177, 59, 69);
+                    color: white;
+                }
+/*linea*/
+hr {
+    text-align: center;
+    width: 40%;
+    margin-top: -0.5%;
+}
+
+
+/*carru*/
+ul li {
+    list-style: none;
+    margin: 0;
+    text-align: center;
+}
+
+.slider ul {
+    padding: 0;
+    display: flex;
+    width: 200%;
+    animation: cambio 5s infinite;
+    animation-direction: alternate;
+}
+
+.slider {
+    width: 100%;
+    overflow: hidden;
+}
+
+    .slider li {
+        list-style: none;
+        width: 100%
+    }
+
+    .slider img {
+        width: 80%;
+    }
+
+@keyframes cambio {
+    0% {
+        margin-left: 0;
+    }
+
+    40% {
+        margin-left: 0;
+    }
+
+    60% {
+        margin-left: -100%;
+    }
+
+    100% {
+        margin-left: -100%;
+    }
+}
+/*Productos*/
+.productos {
+    text-align: center;
+}
+
+    .productos img {
+        border-radius: 100%;
+        width: 20%;
+        margin: 3%;
+    }

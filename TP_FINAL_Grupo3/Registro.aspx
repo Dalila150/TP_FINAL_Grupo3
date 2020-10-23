@@ -6,17 +6,21 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link rel="StyleSheet"; href="/Style/registro.css"; type="text/css"/>
+    <link rel="StyleSheet"; href="/Style/footer.css"; type="text/css"/>
+    <link rel="StyleSheet"; href="/Style/header.css"; type="text/css"/>
+
     <title>Registro</title>
     <script src="https://kit.fontawesome.com/475f4f5709.js"></script>
     
 </head>
 <body>
     <header>
-            <div class="divFloat">
-                <img src="/img/Aleatoria.png"; class="logoTam"/>
-            </div>
             <div class="divFloat centro">
-                &nbsp
+                <img src="/img/Aleatoria.png"; class="logoTam"/>
+                
+            </div>
+            <div class="Buscador">
+                <input type="text" name="search" placeholder="Buscar" class="src" autocomplete="off" />
             </div>
             <div class="derecha">
                 <div class="iconos">
@@ -103,7 +107,7 @@
     <!---->
     <footer>
         <div>
-            <h2>Contactenos</h2>
+            <h2 class="cont">Contactenos</h2>
             <!-- Iconos de redes sociales -->
             <ul>
                 <li class="primerIco">
