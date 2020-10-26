@@ -1,19 +1,19 @@
-﻿
-body {
+﻿body {
     background: rgb(243, 223, 223);
-    margin: 0
+    margin: 0;
 }
 /*HEADER*/
 header {
     margin-bottom: 2%;
     width: 100%;
     align-content: center;
-    background-color: rgb(177, 59, 69);
-    float: left;
+    background-color: rgb(158, 65, 73);
+    display: flex;
+    position: fixed;
 }
 
 .divFloat {
-    float: left
+    float: left;
 }
 
 .logoTam {
@@ -32,7 +32,7 @@ Header .centro {
 Header .derecha {
     width: 20%;
     height: 0px;
-    float: left
+    float: left;
 }
 
 Header .iconos {
@@ -44,7 +44,7 @@ Header .iconos {
 
 Header .user {
     font-size: 1.3rem;
-    padding-right: 5%
+    padding-right: 5%;
 }
 
 header .cart {
@@ -60,15 +60,15 @@ header .cart {
 
 input.src {
     padding: 9px 10px 9px 10px;
-    background-color: rgba(233, 142, 142, 0.644);
+    background-color: rgba(233, 142, 142, 0.466);
     outline: none;
     font-size: 15px;
     border-radius: 20px;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, 0.609);
     width: 5%;
-    transition: .2s;
-    margin-top: 20px
+    transition: 0.2s;
+    margin-top: 20px;
 }
 
     input.src:hover {

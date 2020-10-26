@@ -85,6 +85,7 @@
     <Content Include="Registro.aspx" />
     <Content Include="Slider\1.png" />
     <Content Include="Slider\2.png" />
+    <Content Include="Style\Categorias.aspx" />
     <Content Include="Style\footer.css" />
     <Content Include="Style\header.css" />
     <Content Include="Style\home.css" />
@@ -106,6 +107,13 @@
     </Compile>
     <Compile Include="Registro.aspx.designer.cs">
       <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Style\Categorias.aspx.cs">
+      <DependentUpon>Categorias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Style\Categorias.aspx.designer.cs">
+      <DependentUpon>Categorias.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
