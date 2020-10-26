@@ -92,6 +92,7 @@
     <Content Include="Style\home.css" />
     <Content Include="Style\registro.css" />
     <Content Include="Web.config" />
+    <Content Include="Mis_datos.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="home.aspx.cs">
@@ -122,6 +123,13 @@
     </Compile>
     <Compile Include="Style\Categorias.aspx.designer.cs">
       <DependentUpon>Categorias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mis_datos.aspx.cs">
+      <DependentUpon>Mis_datos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mis_datos.aspx.designer.cs">
+      <DependentUpon>Mis_datos.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
