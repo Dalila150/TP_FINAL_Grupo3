@@ -1,0 +1,46 @@
+﻿.conteiner {
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.411);
+    margin-left: 15%;
+    margin-right: 15%;
+    float: left;
+    margin-top: 2%;
+    padding-top: 3%;
+}
+
+.Producto {
+    width: 50%;
+    float: left;
+    text-align: end;
+}
+
+.imgen {
+    border-radius: 50px 50px;
+}
+
+.datosPro {
+    width: 40%;
+    float: right;
+    text-align: start;
+}
+
+.agregar {
+    background-color: rgb(177, 63, 72);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 10px 10px;
+}
+
+.descripcion {
+    width: 50%;
+    margin-left: 10%;
+    float: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.vacio {
+    height: 102px;
+    width: 50%;
+}body {
+}

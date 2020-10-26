@@ -92,10 +92,10 @@ ul li {
         border-radius: 30%;
         width: 20%;
         margin: 3%;
-        transform: scale();
+        transform: scale(1);
     }
 
         .productos img:hover {
             transition: all 0.1s ease-out;
-            transform: scale(1.1);
+            transform: scale(1.2);
         }
