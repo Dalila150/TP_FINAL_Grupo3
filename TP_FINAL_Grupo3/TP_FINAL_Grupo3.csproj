@@ -82,6 +82,7 @@
     <Content Include="Categorias\Precios.txt" />
     <Content Include="home.aspx" />
     <Content Include="img\Aleatoria.png" />
+    <Content Include="Iniciar.aspx" />
     <Content Include="Registro.aspx" />
     <Content Include="Slider\1.png" />
     <Content Include="Slider\2.png" />
@@ -99,6 +100,13 @@
     </Compile>
     <Compile Include="home.aspx.designer.cs">
       <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Iniciar.aspx.cs">
+      <DependentUpon>Iniciar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iniciar.aspx.designer.cs">
+      <DependentUpon>Iniciar.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registro.aspx.cs">
