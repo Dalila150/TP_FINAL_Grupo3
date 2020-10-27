@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Producto.aspx.cs" Inherits="TP_FINAL_Grupo3.Producto" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Producto.aspx.cs" Inherits="TP_FINAL_Grupo3.home" %>
 
 <!DOCTYPE html>
 
@@ -48,7 +48,7 @@
           <a href="#">Pantallas</a>
         </li>
         <li>
-          <a href="#">Computadoras</a>
+          <a href="#">Computadoras </a>
         </li>
         <li>
           <a href="#">Tablet</a>
