@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="carrito.aspx" />
     <Content Include="Categorias.aspx" />
     <Content Include="Categorias\1.jpg" />
     <Content Include="Categorias\10.jpg" />
@@ -88,6 +89,7 @@
     <Content Include="Registro.aspx" />
     <Content Include="Slider\1.png" />
     <Content Include="Slider\2.png" />
+    <Content Include="Style\carrito.css" />
     <Content Include="Style\categorias.css" />
     <Content Include="Style\footer.css" />
     <Content Include="Style\header.css" />
@@ -98,6 +100,13 @@
     <Content Include="Mis_datos.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="carrito.aspx.cs">
+      <DependentUpon>carrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="carrito.aspx.designer.cs">
+      <DependentUpon>carrito.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Categorias.aspx.cs">
       <DependentUpon>Categorias.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

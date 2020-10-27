@@ -1,0 +1,80 @@
+﻿.cajita {
+    width: 50%;
+    float: left;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 3%;
+    background-color: rgba(251, 31, 11, 0.233);
+    border-radius: 50px 50px;
+}
+
+.izquierda {
+    width: 50%;
+    float: left;
+}
+
+.detalleventa {
+    background-color:;
+}
+
+.derecha {
+    width: 50%;
+    float: right;
+}
+
+.tituloCarrito {
+    margin-left: 15%;
+    width: 100%;
+}
+
+.detalleVenta img {
+    width: 12%;
+    margin-left: 10%;
+    float: left;
+    border-radius: 20px 20px;
+}
+
+.LugarVacio {
+    float: left;
+    width: 78%;
+}
+
+.detalles div label {
+    margin-left: 10%;
+}
+
+.eliminar {
+    text-align: end;
+    margin-right: 5%;
+    color: red
+}
+
+.linea hr {
+    float: left;
+    margin-left: 30%;
+    margin-top: 7px;
+}
+
+.Dcompra li {
+    text-align: start;
+}
+
+.Total {
+    margin-top: 20px;
+    float: left;
+    margin-left: 40%;
+    padding-right: 3%;
+    background-color: rgba(192, 20, 20, 0.424);
+    border-radius: 30px 30px;
+}
+
+.finaliza {
+    margin: 1rem;
+}
+
+    .finaliza button {
+        padding: 0.5rem;
+        color: white;
+        background-color: rgb(128, 23, 4);
+        border-radius: 20px 20px;
+    }
