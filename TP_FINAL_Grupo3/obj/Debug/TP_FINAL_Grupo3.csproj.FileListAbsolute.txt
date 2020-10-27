@@ -116,3 +116,6 @@ D:\Dalila150\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.csproj.Co
 D:\Dalila150\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.csproj.CopyComplete
 D:\Dalila150\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.dll
 D:\Dalila150\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.pdb
+C:\Users\GASTON\Desktop\juego choto\TP_FINAL PROG\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.csprojAssemblyReference.cache
+C:\Users\GASTON\Desktop\juego choto\TP_FINAL PROG\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.dll
+C:\Users\GASTON\Desktop\juego choto\TP_FINAL PROG\TP_FINAL_Grupo3\TP_FINAL_Grupo3\obj\Debug\TP_FINAL_Grupo3.pdb

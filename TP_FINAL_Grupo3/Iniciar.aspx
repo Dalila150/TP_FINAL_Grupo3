@@ -1,13 +1,14 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Iniciar.aspx.cs" Inherits="TP_FINAL_Grupo3.Iniciar" %>
+﻿
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Iniciar.aspx.cs" Inherits="TP_FINAL_Grupo3.Iniciar" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="StyleSheet" ; href="/style/home.css" ; type="text/css" />
-    <link rel="StyleSheet" ; href="/style/footer.css" ; type="text/css" />
-    <link rel="StyleSheet" ; href="/style/header.css" ; type="text/css" />
+ <link rel="StyleSheet"; href="/Style/registro.css"; type="text/css"/>
+    <link rel="StyleSheet"; href="/Style/footer.css"; type="text/css"/>
+    <link rel="StyleSheet"; href="/Style/header.css"; type="text/css"/>
 
     <title>Home</title>
     <script src="https://kit.fontawesome.com/475f4f5709.js"></script>
@@ -31,6 +32,73 @@
             </div>
         </div>
     </header>
+
+    <!-- d -->
+    
+           <div class="posicionamientoD">
+
+        <div>
+            <h1 class="titulo">Registrarse</h1>
+            <hr/>
+        </div>
+
+        <form id="formulario" runat="server">
+            <div class="posicion">
+                <div class="datosD">
+                    <div class="tituloDatos">
+                        <h3>Datos del usuario</h3>
+                    </div>
+                    <div>
+                        <div class="lblCampo">
+                            Ingrese su nombre:
+                        </div>
+
+                        <div class="txtDatos" >
+                            <asp:TextBox Style="width: 100%" ID="nombre" runat="server"></asp:TextBox>
+                        </div>
+                    </div>
+                    
+                    <div class="datDivision">
+                        <div class="lblCampo" >
+                            Ingrese su apellido:
+                        </div>
+                        <div class="txtDatos">
+                            <asp:TextBox Style="width: 100%" ID="apellido" runat="server"></asp:TextBox>
+                            
+                        </div>
+
+                        <div class="botonSesionD">
+                            <button >Iniciar Sesion
+                            </button>
+                            </div>
+
+                        
+
+                    </div>
+                    <div>
+
+                        <div class ="mensajeD">
+
+                        <asp:Label ID="Label1" runat="server" Text="No tenes cuenta?. Resgistrate ahora!."></asp:Label>
+                    
+                            </div>
+                        
+                        <div class="botonSesionD">
+
+                            <asp:Button ID="Button1" runat="server" Text="Empezar" Height="50px" Width="300px" />
+
+                        </div>
+
+                    </div>
+                </div>
+
+             
+           
+        </form>
+    </div>
+       
+    <!-- d -->
+    
 
     <footer>
         <div>
@@ -68,3 +136,4 @@
     </footer>
 </body>
 </html>
+

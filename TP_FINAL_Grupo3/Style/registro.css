@@ -9,31 +9,39 @@
     padding-top: 1%;
     width: 80%
 }
+
 .cont {
-    color:rgb(221, 165, 169);
+    color: rgb(221, 165, 169);
 }
-.titulo{
-    padding-left:5%
+
+.titulo {
+    padding-left: 5%
 }
+
 hr {
     width: 80%;
     text-align: left;
 }
+
 #formulario .posicion {
     margin-left: 5%;
     margin-right: 5%
 }
+
 .datos {
     float: left;
     width: 48%
 }
+
 .tituloDatos {
     margin-top: 5%;
 }
+
 .txtDatos {
     width: 50%;
     float: left
 }
+
 .lblCampo {
     width: 40%;
     float: left
@@ -42,13 +50,29 @@ hr {
 .datAcceso {
     float: right;
     width: 50%
-
 }
+
 .datDivision {
     padding-top: 7%
 }
+
 .botonRegistro {
     width: 90%;
     float: left;
-    
+}
+
+.datosD {
+    float: left;
+    width: 48%;
+    padding-left: 30%;
+}
+
+.botonSesionD {
+    padding-left: 20%;
+    padding-top: 9%;
+}
+
+.mensajeD {
+    padding-left: 25%;
+    padding-top: 5%;
 }
