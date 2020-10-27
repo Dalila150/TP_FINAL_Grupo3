@@ -11,7 +11,7 @@ namespace TP_FINAL_Grupo3
 {
 
 
-    public partial class Categorias
+    public partial class home
     {
     }
 }

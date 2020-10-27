@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Categorias.aspx.cs" Inherits="TP_FINAL_Grupo3.Categorias" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Categorias.aspx.cs" Inherits="TP_FINAL_Grupo3.home" %>
 
 <!DOCTYPE html>
 
