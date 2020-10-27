@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace TP_FINAL_Grupo3.Style
+namespace TP_FINAL_Grupo3
 {
     public partial class Categorias : System.Web.UI.Page
     {

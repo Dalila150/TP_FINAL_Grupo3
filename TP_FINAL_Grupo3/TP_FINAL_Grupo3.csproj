@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Categorias.aspx" />
     <Content Include="Categorias\1.jpg" />
     <Content Include="Categorias\10.jpg" />
     <Content Include="Categorias\11.jpg" />
@@ -87,7 +88,7 @@
     <Content Include="Registro.aspx" />
     <Content Include="Slider\1.png" />
     <Content Include="Slider\2.png" />
-    <Content Include="Style\Categorias.aspx" />
+    <Content Include="Style\categorias.css" />
     <Content Include="Style\footer.css" />
     <Content Include="Style\header.css" />
     <Content Include="Style\home.css" />
@@ -97,6 +98,13 @@
     <Content Include="Mis_datos.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Categorias.aspx.cs">
+      <DependentUpon>Categorias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Categorias.aspx.designer.cs">
+      <DependentUpon>Categorias.aspx</DependentUpon>
+    </Compile>
     <Compile Include="home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -125,13 +133,6 @@
     </Compile>
     <Compile Include="Registro.aspx.designer.cs">
       <DependentUpon>Registro.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Style\Categorias.aspx.cs">
-      <DependentUpon>Categorias.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Style\Categorias.aspx.designer.cs">
-      <DependentUpon>Categorias.aspx</DependentUpon>
     </Compile>
     <Compile Include="Mis_datos.aspx.cs">
       <DependentUpon>Mis_datos.aspx</DependentUpon>

@@ -104,7 +104,7 @@ Sus 2 cámaras traseras de 13 Mpx/2 Mpx te permitirán capturar imágenes con el
 Además, el dispositivo cuenta con cámara frontal de 5 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas.<br/>
 
 Reconocimiento facial para mayor seguridad<br/>
-Su precisa tecnología de reconocimiento facial te garantiza un acceso al equipo rápido y seguro. Acercá el dispositivo a tu rostro para desbloquearlo instantáneamente y comenzá a disfrutar de una experiencia inigualable.</br>
+Su precisa tecnología de reconocimiento facial te garantiza un acceso al equipo rápido y seguro. Acercá el dispositivo a tu rostro para desbloquearlo instantáneamente y comenzá a disfrutar de una experiencia inigualable.<br/>
       </p>
    </div>
   </div>

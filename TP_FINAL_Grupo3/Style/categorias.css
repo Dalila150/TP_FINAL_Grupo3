@@ -1,0 +1,49 @@
+﻿.filtros {
+    width: 18%;
+    padding: 0;
+    float: left;
+    height: 320px;
+    padding-top: 1rem;
+    border-right: 1px solid rgb(192, 36, 109);
+    border-top: 1px solid rgb(192, 36, 109);
+    border-bottom: 1px solid rgb(192, 36, 109);
+}
+
+.espacio {
+    padding-top: 1rem;
+}
+
+.productosCat img {
+    width: 15%;
+    float: left;
+    margin: 2%;
+    border-radius: 50px 50px;
+}
+
+.productosCat div h3 {
+    float: left;
+}
+
+.vacio {
+    width: 18%;
+    height: 100px;
+    float: left;
+}
+
+.nombresProd div label {
+    float: left;
+    width: 14.3%;
+    background-color: rgba(175, 40, 96, 0.658);
+    margin: 2%;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding: 0.5rem;
+    margin-top: -20px;
+    transform: scale(1);
+}
+
+    .nombresProd div label:hover {
+        transition: all 0.1s ease-out;
+        transform: scale(1.1);
+    }
